@@ -82,7 +82,7 @@ const selectPlan = (planNumber) => {
     
 }
 
-selectPlan(5);
+selectPlan(3);
 
 
 
